@@ -21,12 +21,10 @@ import { Router } from "next/router";
 
       const  productData = [
             {
-              id:1,
-              price:500,
+              id:"1",
+              price:"500",
               description:"Best Playstation",
-              
-            
-            },  
+            } 
              
         ]
 
